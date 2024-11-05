@@ -1,5 +1,5 @@
 # CapX_Demo
-Cap X trading App
+Cap X - CryptoCurrency Tracker App with Real-Time data fetching.
 This project aims to create a simple iOS app that allows users to search for a stock and display 
 its current price, percentage change, and company name. The app follows the MVVM architecture, 
 ensuring a clean separation of concerns between the UI and business logic.
